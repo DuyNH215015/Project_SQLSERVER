@@ -5,4 +5,6 @@
 ![image](https://github.com/Kkrommm24/Project_SQLSERVER/assets/131908995/c61411bd-7066-490e-9043-8a98ad372a58)
 # Kiểm tra lại đã được tự đông thêm được trên view danh sách clinic chưa: http://localhost:8080/clinic
 ![image](https://github.com/Kkrommm24/Project_SQLSERVER/assets/131908995/1af3db1d-0755-4b33-b62a-cd348d565a56)
+# Database:
+![image](https://github.com/Kkrommm24/Project_SQLSERVER/assets/131908995/08417148-8acd-4863-b931-47030e8d74f9)
 
